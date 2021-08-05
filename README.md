@@ -1,4 +1,4 @@
-# rock-paper-siscor-game-using-Tkinter
+# rock-paper-scissors-game-using-Tkinter
 
 my first GUI 
-play rock paper siscor with computer!!
+play rock paper scissors with computer!!
